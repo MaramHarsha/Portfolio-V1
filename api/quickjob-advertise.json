@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Quickchat realtime AJAX chat plugin",
+    "price": "$49",
+    "item_url": "https://codentheme.com/item/quickchat-realtime-ajax-chat-messaging-plugin/",
+    "image_url": "https://codentheme.com/product-images/approved/quickchat-banner-5ee341d3764338.93174672.jpg",
+    "item_path": "../plugins/quickchat-ajax",
+    "description": "Quickchat realtime AJAX chat messaging plugin"
+  },
+  {
+    "title": "Stripe Payment Plugin For QuickCMS",
+    "price": "$29",
+    "item_url": "https://codecanyon.net/item/stripe-payment-plugin-for-quickad-quickjob/26675331",
+    "image_url": "https://codecanyon.img.customer.envatousercontent.com/files/314950934/stripe-addon.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=225ae98a905e4791ab041c4048c7f52b",
+    "item_path": "../includes/payments",
+    "description": "Addon For QuickAd, QuickJob, QuickHomes, QuickQR"
+  },
+  {
+    "title": "Offline Payment Plugin For QuickCMS",
+    "price": "$29",
+    "item_url": "https://codecanyon.net/item/offline-payment-plugin-for-quickad-quickjob/26675377",
+    "image_url": "https://codecanyon.img.customer.envatousercontent.com/files/314950890/wire-transfer-addon.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=6e236c6c968515fdb82ba84f4bca08c0",
+    "item_path": "../includes/payments",
+    "description": "Addon For QuickAd, QuickJob, QuickHomes, QuickQR"
+  },
+  {
+    "title": "Paytm Payment Plugin For QuickCMS",
+    "price": "$29",
+    "item_url": "https://codecanyon.net/item/paytm-payment-plugin-for-quickad-quickjob/26675469",
+    "image_url": "https://codecanyon.img.customer.envatousercontent.com/files/314950978/paytm-addon.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=bc2ae74210e3203514e425bd05a5ae3f",
+    "item_path": "../includes/payments",
+    "description": "Addon For QuickAd, QuickJob, QuickHomes, QuickQR"
+  },
+  {
+    "title": "Payumoney Payment Plugin For QuickCMS",
+    "price": "$29",
+    "item_url": "https://codecanyon.net/item/payumoney-payment-plugin-for-quickad-quickjob/26675437",
+    "image_url": "https://codecanyon.img.customer.envatousercontent.com/files/314951004/payu-addon.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=357b6bc79bc5fbc16181f55f6d5752b0",
+    "item_path": "../includes/payments",
+    "description": "Addon For QuickAd, QuickJob, QuickHomes, QuickQR"
+  },
+  {
+    "title": "Paystack Payment Plugin For QuickCMS",
+    "price": "$29",
+    "item_url": "https://codecanyon.net/item/paystack-payment-plugin-for-quickad-quickjob/26675484",
+    "image_url": "https://codecanyon.img.customer.envatousercontent.com/files/314950986/paystack-addon.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=c80d9e4bb9cd80079ced7a584b0e1103",
+    "item_path": "../includes/payments",
+    "description": "Addon For QuickAd, QuickJob, QuickHomes, QuickQR"
+  },
+  {
+    "title": "Mollie Payment Plugin For QuickCMS",
+    "price": "$29",
+    "item_url": "https://codecanyon.net/item/mollie-payment-plugin-for-quickqr/29047411",
+    "image_url": "https://codecanyon.img.customer.envatousercontent.com/files/309425599/mollie-addon.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=5f2674ea65c71a06216096e622f2cd45",
+    "item_path": "../includes/payments",
+    "description": "Addon For QuickAd, QuickJob, QuickHomes, QuickQR"
+  },
+  {
+    "title": "2Checkout Payment Plugin For QuickCMS",
+    "price": "$29",
+    "item_url": "https://codecanyon.net/item/2checkout-payment-gateway-plugin/26675572",
+    "image_url": "https://codecanyon.img.customer.envatousercontent.com/files/314950957/checkout-addon.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=1a9f8925f10c95a82113617e05f22328",
+    "item_path": "../includes/payments",
+    "description": "Addon For QuickAd, QuickJob, QuickHomes, QuickQR"
+  },
+  {
+    "title": "CCAvenue Payment Plugin For QuickCMS",
+    "price": "$29",
+    "item_url": "https://codecanyon.net/item/ccavenue-payment-gateway-plugin-for-quickad-quickjob/26675522",
+    "image_url": "https://codecanyon.img.customer.envatousercontent.com/files/314951029/ccavenue-addon.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=f270d62e1a018b9d7cc2486a911ec6fe",
+    "item_path": "../includes/payments",
+    "description": "Addon For QuickAd, QuickJob, QuickHomes, QuickQR"
+  },
+  {
+    "title": "QuickQR - Saas - Contactless Restaurant QR Menu Maker",
+    "price": "$69",
+    "item_url": "https://codecanyon.net/item/quickqr-contactless-restaurant-qr-menu-maker/29012439",
+    "image_url": "https://codecanyon.img.customer.envatousercontent.com/files/314721358/qrmenu-banner.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=d2643e5cbda5817c91d61e77eb46cb81",
+    "item_path": "",
+    "description": ""
+  },
+  {
+    "title": "Quickad Classified Ads CMS PHP Script",
+    "price": "$69",
+    "item_url": "https://codecanyon.net/item/quickad-classified-ads-php-script/19960675",
+    "image_url": "https://codecanyon.img.customer.envatousercontent.com/files/289804355/banner-moc.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=7befaa457081f7352722576d704d7df9",
+    "item_path": "",
+    "description": ""
+  }
+]
